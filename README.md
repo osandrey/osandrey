@@ -1,14 +1,14 @@
 # Hi there, I'm Andrew 👋
 
 Welcome to my GitHub profile! 
-![Profile Banner](https://github.com/osandrey/osandrey/.github-header-image.png)
+![Profile Banner](./osandrey/.github-header-image.png)
 
 ---
 
 ## 👨‍💻 About Me
 - 🌍 **Location**: UK
 - 👨‍💻 **Full Stack Developer** with a focus on modern technologies
-- 📫 How to reach me: [your-email@example.com](mailto:osandreyman@gmail.com)
+- 📫 How to reach me: [osandreyman@gmail.com](mailto:osandreyman@gmail.com)
 - 🌐 Check out my [Website](https://osandrey.github.io)
 
 
