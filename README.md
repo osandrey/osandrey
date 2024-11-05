@@ -1,7 +1,7 @@
 # Hi there, I'm Andrew 👋
 
 Welcome to my GitHub profile! 
-![Profile Banner](github-header-image.png)
+![Profile Banner](header-image.png)
 
 ---
 
