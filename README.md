@@ -7,8 +7,8 @@ Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 - 🌍 **Location**: UK
-- 👨‍💻 **Full Stack Developer** with a focus on modern web technologies
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 👨‍💻 **Full Stack Developer** with a focus on modern technologies
+- 📫 How to reach me: [your-email@example.com](mailto:osandreyman@gmail.com)
 - 🌐 Check out my [Website](https://osandrey.github.io)
 
 
@@ -21,5 +21,18 @@ Here are some technologies and tools I frequently work with:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-8C8C8C?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F20?style=flat-square&logo=robot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=flat-square&logo=nosql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+
+
+
+
+
+
 
 ---
