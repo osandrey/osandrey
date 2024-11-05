@@ -1,7 +1,7 @@
 # Hi there, I'm Andrew 👋
 
 Welcome to my GitHub profile! 
-![Profile Banner](https://your-image-url.com/banner.png)
+![Profile Banner](https://github.com/osandrey/osandrey/edit/main/README.md#:~:text=github%2D-,header,-%2Dimage.png)
 
 ---
 
